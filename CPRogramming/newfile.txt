@@ -1,10 +1,7 @@
 This is a new file with some content.
 It contains multiple lines of text.
 This should now appear on GitHub!
-<<<<<<< HEAD
 jjfjkfkff
-=======
 jjfjkfkff
 hello world how are u
 kkkdkd
->>>>>>> feature1
